@@ -78,7 +78,8 @@ class MyFavicon extends Plugin
 				$root = $_SERVER['DOCUMENT_ROOT'];
 				$url = $asset->getUrl();
 				$file = $root . $url;
-				$dir = $root . UrlHelper::rootRelativeUrl(UrlHelper::siteUrl());
+				//$dir = $root . UrlHelper::rootRelativeUrl(UrlHelper::siteUrl());
+				$dir = $root . '/';
 				
 				$pathinfo = pathinfo($file);
 				$ext = strtolower($pathinfo['extension']);
