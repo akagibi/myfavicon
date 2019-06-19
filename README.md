@@ -20,6 +20,12 @@ To install the plugin, follow these instructions.
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for My Favicon.
 
-4. Go to My Favicon Settings and Select asset image.
+## Using String Urlencode
+
+Go to My Favicon  → Settings → Select image.
+
+Rendering html code in template:
+
+    {{ craft.myfavicon.html }}
 
 Brought to you by [Akagibi](https://www.akagibi.com)
