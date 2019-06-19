@@ -1,0 +1,9 @@
+{% import '_includes/forms' as forms %}
+{% js '$("form:first").attr("enctype", "multipart/form-data");' %}
+
+<p><b>Select an image</b><br>
+<i>Recommended : square / 320x320 min</i></p>
+
+{{ forms.field({
+  label: "Image"
+}, include('_includes/forms/elementSelect', myAssetSelectConfig)) }}
