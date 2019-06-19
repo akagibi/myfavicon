@@ -2,7 +2,7 @@
     "name": "akagibi/myfavicon",
     "description": "CraftCMS plugin generating favicon.",
     "type": "craft-plugin",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "keywords": [
         "craft",
         "cms",
