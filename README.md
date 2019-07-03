@@ -29,8 +29,3 @@ Rendering html code in template:
     {{ craft.myfavicon.html }}
 
 Brought to you by [Akagibi](https://www.akagibi.com)
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/akagibi/myfavicon/badge.svg?style=beer-square)](https://beerpay.io/akagibi/myfavicon)  [![Beerpay](https://beerpay.io/akagibi/myfavicon/make-wish.svg?style=flat-square)](https://beerpay.io/akagibi/myfavicon?focus=wish)
