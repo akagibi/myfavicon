@@ -20,7 +20,7 @@ To install the plugin, follow these instructions.
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for My Favicon.
 
-## Using String Urlencode
+## Using My Favicon
 
 Go to My Favicon  → Settings → Select image.
 
